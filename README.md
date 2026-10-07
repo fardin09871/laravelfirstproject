@@ -9,7 +9,7 @@ Tailwind CSS
 JavaScript
 Vite
 
-👨‍💻 Developer
+👨‍💻 Developer:
 Fardin Muhammad Azis
 on instagram         : @swsevrydy_
 on linkedn           : https://www.linkedin.com/in/fardin-muhammad-azis-16309b354/
